@@ -1,2 +1,2 @@
 # CoreWithAngular
- Intro to ASP.NET Core with Angular
+ASP.NET Core with Angular
